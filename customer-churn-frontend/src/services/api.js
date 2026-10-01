@@ -1,5 +1,5 @@
 // const API_URL = 'http://127.0.0.1:8000';
-const API_URL = 'https://customer-churn-prediction-lljt.onrender.com';
+const API_URL = 'https://churn-prediction-m1w6.onrender.com';
 
 
 /**
